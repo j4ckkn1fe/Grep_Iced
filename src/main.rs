@@ -2,7 +2,6 @@ use iced::{Settings, Application, window};
 
 mod main_window;
 
-
 fn main() -> iced::Result {
     main_window::MainWindow::run(Settings {
         window: window::Settings {
