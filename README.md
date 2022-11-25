@@ -2,4 +2,5 @@
 
 A conversion to GUI from the grep example in the rust book https://doc.rust-lang.org/book/title-page.html
 
-![image](https://user-images.githubusercontent.com/57782453/204039616-30cf74ff-ea2c-4a74-93a6-a83a4b17eff4.png)
+
+![image](https://user-images.githubusercontent.com/57782453/204039793-b6a98978-7c91-4cce-a22f-c39d052bf6e9.png)
